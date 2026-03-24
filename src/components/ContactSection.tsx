@@ -47,7 +47,7 @@ const ContactSection = () => {
             <Mail size={18} /> Email
           </a>
           <a
-            href="https://linkedin.com"
+            href="https://www.linkedin.com/in/saikishoreonteddula"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors text-sm"
@@ -55,7 +55,7 @@ const ContactSection = () => {
             <Linkedin size={18} /> LinkedIn
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/Saikishore-O"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors text-sm"

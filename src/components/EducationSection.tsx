@@ -27,6 +27,10 @@ const certifications = [
     title: "AI Data Analyst",
     issuer: "Tech Mahindra SMART Academy",
   },
+  {
+    title: "Introduction to Artificial Intelligence",
+    issuer: "Simplilearn",
+  },
 ];
 
 const EducationSection = () => {

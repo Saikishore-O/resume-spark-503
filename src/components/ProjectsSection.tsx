@@ -4,11 +4,18 @@ import { useState } from "react";
 
 const projects = [
   {
+    title: "Aircraft Accident Injury Level Prediction",
+    description:
+      "Built a machine learning model to predict injury severity in aircraft accidents using ICAO dataset. Applied preprocessing and feature encoding, then trained a Linear Regression model for prediction.",
+    tech: ["Python", "Machine Learning", "Data Preprocessing", "Linear Regression"],
+    github: "https://github.com/Saikishore-O",
+  },
+  {
     title: "Email Spam Classification",
     description:
       "Built a spam classifier using NLP techniques, Naive Bayes, and SVM algorithms. Applied text preprocessing, feature extraction, and evaluated with precision and recall metrics.",
     tech: ["Python", "NLP", "Machine Learning", "Naive Bayes", "SVM"],
-    github: "#",
+    github: "https://github.com/Saikishore-O",
   },
 ];
 
