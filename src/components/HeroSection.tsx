@@ -64,10 +64,11 @@ const HeroSection = () => {
           </a>
           <a
             href="/SAIKISHORE_ONTEDDULA.pdf"
-            download
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg border border-border text-foreground font-medium hover:bg-secondary transition-colors"
           >
-            Download Resume <Download size={16} />
+            View Resume <ExternalLink size={16} />
           </a>
           <a
             href="#contact"
